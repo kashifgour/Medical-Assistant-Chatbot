@@ -6,7 +6,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using Gem
 
 Here are some screenshots of the chatbot in action:
 
-![RAG Medical Assistant Chatbot Demo ]("C:\Users\Kashif ahmad\OneDrive\Desktop\Screenshot 2024-09-14 150316.png")
+![RAG Medical Assistant Chatbot Demo ]()
 
 ## Project Structure
 
