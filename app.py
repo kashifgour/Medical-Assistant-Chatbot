@@ -18,7 +18,7 @@ app = Flask(__name__)
 app.secret_key = os.urandom(24)  # Set a secret key for session management
 
 # Define the path to the PDF file
-file_path = "C:/Users/Kashif ahmad/Medical Assistent/data/HeartAttack Guide.pdf"
+file_path = "data/HeartAttack Guide.pdf"
 
 # Initialize the PyPDFLoader to load the PDF file
 loader = PyPDFLoader(file_path)
